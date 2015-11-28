@@ -5,7 +5,7 @@
 10.223.157.186 - - [15/Jul/2009:14:58:59 -0700] "GET /favicon.ico HTTP/1.1" 404 209
 ```
 ##测试
-cat sample | python mapper.py | sort | python reducer.py 
+cat ../sample_data_access_log | python mapper.py | sort | python reducer.py 
 ##输出
 ```
 /assets/css/the-associates.css	256.0
