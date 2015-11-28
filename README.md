@@ -4,8 +4,14 @@
 - FindLargest
 找访问次数最多的url.
 
-- FindTopK
-找访问次数前K多的url.
+- FindTopKinRecuder
+找访问次数前K多的url,在reducer里
+
+- FindTopKinMapper
+找到长度最长的前k个帖子,在mapper里
 
 - FilterOnlyOneSentence
 过滤出只包含一句话的帖子.
+
+- InvertedIndex
+统计某个单词的频率,和某个单词所出现的所有帖子id.
