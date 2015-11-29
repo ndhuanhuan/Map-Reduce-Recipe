@@ -15,3 +15,9 @@
 
 - InvertedIndex
 统计某个单词的频率,和某个单词所出现的所有帖子id.
+
+- Mean
+求均值.
+
+-CombineTwoTables
+两表联接.
