@@ -19,5 +19,5 @@
 - Mean
 求均值.
 
--CombineTwoTables
+- CombineTwoTables
 两表联接.
