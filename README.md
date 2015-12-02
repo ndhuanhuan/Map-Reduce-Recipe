@@ -24,3 +24,6 @@
 
 - MostTime
 求每个用户最经常的发帖时间.
+
+- PopularTags
+最常用标签
