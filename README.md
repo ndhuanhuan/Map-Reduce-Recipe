@@ -1,5 +1,5 @@
 ##一些常用的map reduce代码
-大多数来自Udacity Hadoop教程,还有我加的,python编写,用Hadoop Streaming提交,或者用终端测试.
+题目大多数来自Udacity Hadoop教程.python编写,用Hadoop Streaming提交,或者用终端测试.比较初级,没有generator和iterator(写这些的时候不知道应该用这个).
 
 - FindLargest
 找访问次数最多的url.
@@ -15,6 +15,9 @@
 
 - InvertedIndex
 统计某个单词的频率,和某个单词所出现的所有帖子id.
+
+- InvertedIndex2
+统计所有文档中所有单词的频率,文档频率,即tf-idf
 
 - Mean
 求均值.
